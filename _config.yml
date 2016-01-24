@@ -1,0 +1,28 @@
+name: VillaPetroni
+favicon: null
+layout_spectrum: 0.5727042579092085
+typography_spectrum: 0.9203993820119649
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.535638319561258
+  lightness: 0.8103253771550953
+  saturation: 0.09003098704852164
+  rhythmicContrast: 0.2866709295194596
+purpose: []
